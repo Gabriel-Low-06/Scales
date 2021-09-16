@@ -19,7 +19,7 @@ void scale(float x,float y){
   endShape(CLOSE);
 }
 
-float size = 70;
+//float big = 70;
 void draw(){
    noStroke();
    fill(100,100,100);
